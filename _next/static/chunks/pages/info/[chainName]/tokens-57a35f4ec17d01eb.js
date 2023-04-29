@@ -1,0 +1,2 @@
+(self.webpackChunk_N_E=self.webpackChunk_N_E||[]).push([[8213],{15670:function(n,u,t){(window.__NEXT_P=window.__NEXT_P||[]).push(["/info/[chainName]/tokens",function(){return t(23541)}])},23541:function(n,u,t){"use strict";t.r(u);var i=t(52322),_=t(75345),c=t(56513),e=function(){return(0,i.jsx)(_.Z,{})};e.Layout=c.O,e.chains=[],u.default=e}},function(n){n.O(0,[1246,6213,9074,6839,6188,9774,2888,179],function(){return n(n.s=15670)}),_N_E=n.O()}]);
+//# sourceMappingURL=tokens-57a35f4ec17d01eb.js.map

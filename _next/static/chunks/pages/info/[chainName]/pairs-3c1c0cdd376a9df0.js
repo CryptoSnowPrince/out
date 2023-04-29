@@ -1,0 +1,2 @@
+(self.webpackChunk_N_E=self.webpackChunk_N_E||[]).push([[7798],{25489:function(n,u,i){(window.__NEXT_P=window.__NEXT_P||[]).push(["/info/[chainName]/pairs",function(){return i(14308)}])},14308:function(n,u,i){"use strict";i.r(u);var t=i(52322),_=i(58880),c=i(56513),e=function(){return(0,t.jsx)(_.Z,{})};e.Layout=c.O,e.chains=[],u.default=e}},function(n){n.O(0,[1246,6213,9074,6839,9091,9774,2888,179],function(){return n(n.s=25489)}),_N_E=n.O()}]);
+//# sourceMappingURL=pairs-3c1c0cdd376a9df0.js.map
